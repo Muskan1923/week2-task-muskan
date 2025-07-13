@@ -17,5 +17,4 @@ You can install dependencies using:
 ```bash
 pip install pandas matplotlib seaborn numpy
 
-#uasge
-python weatherDataAnalysisTool.ipynb weather.csv
+
