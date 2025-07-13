@@ -33,11 +33,14 @@ This project analyzes historical weather data (temperature and rainfall) for New
    cd weather-analysis-tool
 
 Usage
-See USAGE.md for detailed usage instructions and example output.
+
+See [USAGE.md](./USAGE.md) for detailed usage instructions and example output.
 
 Sample output 
-See sample_output.md for detailed sample output.
+
+See [sample_output.md](./sample_output.md) for detailed sample output.
 
 📄 License
-This project is licensed under the MIT License.
+
+This project is licensed under the MIT [LICENSE](./LICENSE).
 
