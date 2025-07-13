@@ -32,3 +32,12 @@ This project analyzes historical weather data (temperature and rainfall) for New
    git clone https://github.com/your-username/weather-analysis-tool.git
    cd weather-analysis-tool
 
+Usage
+See USAGE.md for detailed usage instructions and example output.
+
+Sample output 
+See sample_output.md for detailed sample output.
+
+📄 License
+This project is licensed under the MIT License.
+
